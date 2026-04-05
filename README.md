@@ -3,6 +3,12 @@
 ## Overview
 Resume Builder is a full-stack MERN (MongoDB, Express, React, Node.js) application for creating, editing, and optimizing resumes with AI-powered features.
 
+## Output 
+<img width="1920" height="868" alt="Image" src="https://github.com/user-attachments/assets/4cb5fade-2f92-4a89-9aeb-f05336656a3b" />
+<img width="1920" height="2180" alt="Image" src="https://github.com/user-attachments/assets/b103be9c-0018-49f5-99bf-9c648016562e" />
+<img width="1920" height="1841" alt="Image" src="https://github.com/user-attachments/assets/0de8d7d6-4ce9-4a24-9881-2d63b5d9103f" />
+<img width="1920" height="2303" alt="Image" src="https://github.com/user-attachments/assets/7dc818ea-a719-4ec1-8674-dfb22130ca9f" />
+
 ---
 
 ## 📁 Project Structure
