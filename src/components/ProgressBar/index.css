@@ -1,0 +1,17 @@
+/* ============================================
+   PROGRESS BAR
+   ============================================ */
+.progress-track {
+  height: 6px;
+  background-color: var(--input-bg);
+  border-radius: 3px;
+  overflow: hidden;
+  flex: 1;
+}
+.progress-fill {
+  height: 100%;
+  border-radius: 3px;
+}
+.progress-fill-purple { background-color: var(--primary); }
+.progress-fill-amber { background-color: var(--warning); }
+.progress-fill-green { background-color: var(--success); }

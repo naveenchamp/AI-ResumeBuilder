@@ -1,0 +1,19 @@
+/* ============================================
+   VERSIONS
+   ============================================ */
+.version-card {
+  background: linear-gradient(180deg, rgba(30, 41, 59, 0.96), rgba(15, 23, 42, 0.94));
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--primary);
+  border-radius: 0 14px 14px 0;
+  padding: 20px;
+  box-shadow: var(--card-shadow);
+}
+.version-badge {
+  display: inline-flex;
+  align-items: center;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 3px 10px;
+  border-radius: 20px;
+}
